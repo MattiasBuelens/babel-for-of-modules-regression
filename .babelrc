@@ -1,0 +1,6 @@
+{
+  "plugins": [
+    "transform-for-of-as-array",
+    "transform-es2015-modules-amd"
+  ]
+}
